@@ -1,0 +1,24 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jard5661/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "fajar rizkiadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jard5661/apprestapi/issues"
+  },
+  "homepage": "https://github.com/jard5661/apprestapi#readme"
+}
